@@ -9,7 +9,7 @@ The final model predicts personality type with strong performance while maintain
 
 
 ## Problem Statement
-This project investigates whether demographic and psychological features can be used to predict MBTI personality types using machine learning models.
+This project investigates whether demographic and psychological features can be used to predict MBTI personality types using a shorter questionnaire.
 
 
 
